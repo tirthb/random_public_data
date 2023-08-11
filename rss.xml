@@ -1,2 +1,63 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Equilar Exec Tracker</title><link>https://www.equilar.com/relationship-intelligence.html</link><description>Exec changes in major tech companies</description><atom:link href="https://www.equilar.com/relationship-intelligence.html" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://www.equilar.com/images/logos/logo.svg</url><title>Equilar Exec Tracker</title><link>https://www.equilar.com/relationship-intelligence.html</link></image><language>en</language><lastBuildDate>Thu, 10 Aug 2023 01:22:57 +0000</lastBuildDate><item><title>Appointment @ Viking Mergers &amp; Acquisitions</title><link>https://www.vikingmergers.com/about-us/our-people/</link><description>&lt;a href="https://www.equilar.com/relationship-intelligence.html"&gt;Jenifer Garcia&lt;/a&gt;, Office Manager</description><author>support@equilar.com (Equilar, Inc.)</author><guid isPermaLink="false">https://www.vikingmergers.com/about-us/our-people/</guid><pubDate>Wed, 09 Aug 2023 21:22:57 -0400</pubDate></item><item><title>Appointment @ Viking Mergers &amp; Acquisitions</title><link>https://www.vikingmergers.com/about-us/our-people/</link><description>&lt;a href="https://www.equilar.com/relationship-intelligence.html"&gt;Zayna Beckles&lt;/a&gt;, Marketing &amp; Operations Manager</description><author>support@equilar.com (Equilar, Inc.)</author><guid isPermaLink="false">https://www.vikingmergers.com/about-us/our-people/</guid><pubDate>Wed, 09 Aug 2023 21:22:57 -0400</pubDate></item><item><title>Appointment @ Motifworks</title><link>https://www.motifworks.com/about-us/motifworks-team/</link><description>&lt;a href="https://www.equilar.com/relationship-intelligence.html"&gt;Ross Goldberg&lt;/a&gt;, Sales Director</description><author>support@equilar.com (Equilar, Inc.)</author><guid isPermaLink="false">https://www.motifworks.com/about-us/motifworks-team/</guid><pubDate>Wed, 09 Aug 2023 21:22:57 -0400</pubDate></item><item><title>Appointment @ Carabine Group</title><link>https://carabinergroup.com/about/</link><description>&lt;a href="https://www.equilar.com/relationship-intelligence.html"&gt;Bryce DeHart&lt;/a&gt;, Director of Delivery</description><author>support@equilar.com (Equilar, Inc.)</author><guid isPermaLink="false">https://carabinergroup.com/about/</guid><pubDate>Wed, 09 Aug 2023 21:22:57 -0400</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Equilar Exec Tracker</title>
+    <link>{EQUIAR_LANDING_PAGE}</link>
+    <description>Executive changes in major tech companies</description>
+    <atom:link href="{EQUIAR_LANDING_PAGE}" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://www.equilar.com/images/logos/logo.svg</url>
+      <title>Equilar Exec Tracker</title>
+      <link>{EQUIAR_LANDING_PAGE}</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Aug 2023 00:43:35 +0000</lastBuildDate>
+    <item>
+      <title>Appointment at Seagate Technology Holdings plc</title>
+      <link>https://www.seagate.com/in/en/our-story/#board-of-directors</link>
+      <description>&lt;a href='https://www.equilar.com/relationship-intelligence.html'&gt;K.F. Chong&lt;/a&gt;, Senior Vice President, Global Operations</description>
+      <author>support@equilar.com (Equilar, Inc.)</author>
+      <guid isPermaLink="false">https://www.seagate.com/in/en/our-story/#board-of-directors</guid>
+      <enclosure url="https://s3-us-west-2.amazonaws.com/cub-images/prod/53754000/53754016_7296938_largeCircle.png" length="0" type="image/png"/>
+      <pubDate>Thu, 10 Aug 2023 20:43:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Appointment at Seagate Technology Holdings plc</title>
+      <link>https://www.seagate.com/in/en/our-story/#board-of-directors</link>
+      <description>&lt;a href='https://www.equilar.com/relationship-intelligence.html'&gt;Marcos Meirelles&lt;/a&gt;, Senior Vice President, Supply Chain</description>
+      <author>support@equilar.com (Equilar, Inc.)</author>
+      <guid isPermaLink="false">https://www.seagate.com/in/en/our-story/#board-of-directors</guid>
+      <enclosure url="https://s3-us-west-2.amazonaws.com/cub-images/prod/53754000/53754022_7296945_largeCircle.png" length="0" type="image/png"/>
+      <pubDate>Thu, 10 Aug 2023 20:43:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Departure at PayPal Holdings, Inc.</title>
+      <link>http://sec.gov/Archives/edgar/data/1633917/000119312523206286/d405271d8k.htm</link>
+      <description>&lt;a href='https://www.equilar.com/relationship-intelligence.html'&gt;Jonathan S. Auerbach&lt;/a&gt;, Advisor and Former Executive Vice President and Chief Strategy, Growth and Data Officer</description>
+      <author>support@equilar.com (Equilar, Inc.)</author>
+      <guid isPermaLink="false">http://sec.gov/Archives/edgar/data/1633917/000119312523206286/d405271d8k.htm</guid>
+      <enclosure url="https://s3-us-west-2.amazonaws.com/cub-images/prod/40561000/40561384_3113412_largeCircle.png" length="0" type="image/png"/>
+      <pubDate>Thu, 10 Aug 2023 20:43:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Departure at Pegasystems Inc.</title>
+      <link>https://www.pega.com/about/leadership</link>
+      <description>&lt;a href='https://www.equilar.com/relationship-intelligence.html'&gt;Michael R. Pyle&lt;/a&gt;, Chief Technology Strategist</description>
+      <author>support@equilar.com (Equilar, Inc.)</author>
+      <guid isPermaLink="false">https://www.pega.com/about/leadership</guid>
+      <enclosure url="https://s3-us-west-2.amazonaws.com/cub-images/prod/48197000/48197988_5411784_largeCircle.png" length="0" type="image/png"/>
+      <pubDate>Thu, 10 Aug 2023 20:43:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>Departure at Lumentum Holdings Inc.</title>
+      <link>https://www.lumentum.com/en/company/executive-management</link>
+      <description>&lt;a href='https://www.equilar.com/relationship-intelligence.html'&gt;Nicolas Herriau&lt;/a&gt;, Vice President and General Manager, Datacom</description>
+      <author>support@equilar.com (Equilar, Inc.)</author>
+      <guid isPermaLink="false">https://www.lumentum.com/en/company/executive-management</guid>
+      <enclosure url="https://s3-us-west-2.amazonaws.com/cub-images/prod/51379000/51379260_6611495_largeCircle.png" length="0" type="image/png"/>
+      <pubDate>Thu, 10 Aug 2023 20:43:35 -0400</pubDate>
+    </item>
+  </channel>
+</rss>
